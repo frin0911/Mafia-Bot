@@ -11,7 +11,8 @@ Run the following command to install required modules:
 pip install -r requirements.txt
 ```
 
-Open `.env-example` file as text file and put your bot token and prefix.
+Open `env-example` file as text file and put your bot token and prefix, and rename the file name as `.env`.
+
 
 ## Commands
 - `마피아`
