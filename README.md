@@ -18,4 +18,4 @@ Open `.env-example` file as text file and put your bot token and prefix.
 - `다시보기 [게임 코드 / 목록]`
 
 ## Note
-기존 봇의 추가 기능으로 사용하시는 것은 상관없으나, 이 코드 그대로 봇을 운영하지 말아주세요.
+기존 봇의 추가 기능으로 사용하시는 것은 라이선스만 따라주신다면 상관없으나, 이 코드 그대로 봇을 운영하지 말아주세요.
